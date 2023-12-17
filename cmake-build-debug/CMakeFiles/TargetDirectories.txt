@@ -1,0 +1,3 @@
+C:/Development/Projects_in_cplusplus/Rock-paper-scissor-in-c/cmake-build-debug/CMakeFiles/Rock_paper_scissor_in_c.dir
+C:/Development/Projects_in_cplusplus/Rock-paper-scissor-in-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Development/Projects_in_cplusplus/Rock-paper-scissor-in-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

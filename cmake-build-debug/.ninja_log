@@ -1,0 +1,4 @@
+# ninja log v5
+1	186	7245429550005559	build.ninja	27573c370486d3e7
+1	253	7245429553358002	CMakeFiles/Rock_paper_scissor_in_c.dir/main.c.obj	368f9508269a005d
+254	364	7245429554429490	Rock_paper_scissor_in_c.exe	5e30af77ce514991
